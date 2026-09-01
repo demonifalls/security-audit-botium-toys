@@ -43,10 +43,10 @@ Based on the assessment, Botium Toys should prioritize strengthening access cont
 
 Additional attention should be given to asset and data classification and addressing identified PCI DSS and GDPR compliance gaps.
 
-## Documents
+## Project Files
 
-- Controls and Compliance Checklist
-- Scope, Goals, and Risk Assessment Report
+- [Controls and Compliance Checklist](Botium-Toys-Controls-and-Compliance-Checklist.pdf)
+- [Security Recommendations](recommendations.md)
 
 ## Disclaimer
 
